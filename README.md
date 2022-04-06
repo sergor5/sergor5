@@ -22,7 +22,7 @@
 <h3 align="left"></h3>
 
 <div style="display:flex; flex-wrap: wrap">
-<a href="https://app.daily.dev/serg_or5"><img src="https://api.daily.dev/devcards/0a899509d53143e493bce6e5b4005789.png?r=1xl" width="300" alt="Sergen ORIN's Dev Card"/></a>
+<a href="https://app.daily.dev/serg_or5"><img src="https://api.daily.dev/devcards/0a899509d53143e493bce6e5b4005789.png?r=1xl" width="250" alt="Sergen ORIN's Dev Card"/></a>
 
 <div style="display:flex; flex-wrap: wrap; flex-direction: column; margin-left: 10px">
 
