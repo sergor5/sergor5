@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergor5&label=Profile%20views&color=0e75b6&style=flat" alt="sergor5" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on <a href="https://portfolio-sergor5.vercel.app/">**my portfolio website**</a>
 
 - 🌱 I’m currently learning **Next.js, MongoDB**
 
