@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergor5&label=Profile%20views&color=0e75b6&style=flat" alt="sergor5" /> </p>
 
+- 🛠️ My latest project: <a href="https://github.com/sergor5/github-profile-search-react">**Repo**</a> -  <a href="https://github-profile-search-react.vercel.app/">**Demo Page**</a>
+
 - 🔭 I’m currently working on <a href="https://portfolio-sergor5.vercel.app/">**my portfolio website**</a>
 
 - 🌱 I’m currently learning **Next.js, MongoDB**
