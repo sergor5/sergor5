@@ -5,7 +5,7 @@
 
 - 🛠️ My latest project: <a href="https://github.com/sergor5/github-profile-search-react">**Repo**</a> -  <a href="https://github-profile-search-react.vercel.app/">**Demo Page**</a>
 
-- 🔭 <a href="https://sergenorin.com/">**My portfolio website**</a>
+- 🔭 <a href="https://sergenorin.com/" target="_blank">**My portfolio website**</a>
 
 - 🌱 I’m currently learning **Next.js, MongoDB**
 
